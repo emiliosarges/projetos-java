@@ -65,7 +65,7 @@ public class Fundamentos {
 		System.out.println("1. Cadastro de clientes");
 		System.out.println("2. Cadastro de usuários");
 		System.out.println("3. relatorios");
-		int opcao = 3;
+		int opcao = 2;
 		switch (opcao) {
 		case 1: 
 			System.out.println("CLIENTES");
