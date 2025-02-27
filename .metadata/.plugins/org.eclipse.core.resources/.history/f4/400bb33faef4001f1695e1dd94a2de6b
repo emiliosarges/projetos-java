@@ -1,0 +1,11 @@
+package cursoJava;
+
+public class Fundamentos {
+
+	public static void main(String[] args) {
+		String nome = "Emílio";
+		System.out.println(nome);
+
+	}
+
+}
